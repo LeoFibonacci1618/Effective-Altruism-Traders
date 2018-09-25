@@ -1,19 +1,21 @@
-# eatraders
-Traders for Effective Altruism
-Hi!
+#Traders for Effective Altruism
 
-I´m an effective altruist and a trader.
+If you are here chances are that you love trading as much as we do. 
 
-I plan to donate to AMF a (non disclosed) percentage of all gains obtained trading crypto, fx and futures.
+We have created this project with two main goals:
 
-You can follow my charts at https://twitter.com/eatraders
+1. To
+2. To promote EA Funds and other EA organizations so people can donate to their 
 
-If you like TA and trading as much as I do, hope you can join me as a sponsor donating also a small chunk of your earnings.
 
-You can also create your own sponsorship page, linked to this page: http://bit.ly/2QotmYf
 
-Trade for LOVE.   
 
-# People	Nets
- 1 	  0  (US$ 0)
-Quick link to this page: https://www.AgainstMalaria.com/EffectiveAltruismTrader
+
+
+
+Effective altruism is about answering one simple question: how can we use our resources to help others the most?
+
+Rather than just doing what feels right, we use evidence and careful analysis to find the very best causes to work on.
+
+But it's no use answering the question unless you act on it. Effective altruism is about following through. It's about being generous with your time and your money to do the most good you can.
+
