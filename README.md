@@ -7,7 +7,7 @@ We have created this project with two main goals:
 1. To build a community of traders which also happen to be interested in altruism. 
 2. To raise awareness about the Effective Altruism movement, the EA Funds and other EA organizations.
 
-What is Effective altruism?
+<b>What is Effective altruism?</b>  
 
 Effective altruism is about answering one simple question: how can we use our resources to help others the most?
 
