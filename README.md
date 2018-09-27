@@ -1,4 +1,4 @@
-If you are reading this chances are that you love trading as much as we do. 
+#If you are reading this chances are that you love trading as much as we do. 
 
 We have created this project with two main goals:
 
