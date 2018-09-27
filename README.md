@@ -31,3 +31,6 @@ If you want to learn more, there´s a registry of my personal donations to the <
 
 The Against Malaria Foundation (AMF) is one of <a href="https://www.givewell.org/">GiveWell´s top-rated charities</a> and I believe that it offers donors an outstanding opportunity to accomplish good with my donations.
 
+<b>Where can I find you?</b>
+
+You can find us on twitter <a href="https://twitter.com/eatraders">@EATraders</a>.
