@@ -23,11 +23,11 @@ You can directly donate a part of your trading profits to the Effective Altruism
 
 <b>Who is behind this project?
 
-I´m a 42 years old effective altruist and a trader that has chosen the option Earn to Give as a life choice. You can read more about Earn to Give <a href="https://en.wikipedia.org/wiki/Earning_to_give">here</a> and <a href="https://80000hours.org/articles/earning-to-give/">here</a> .
+I´m a 42 years old effective altruist and a trader that has chosen the option <b>Earn to Give</b> as a life choice. You can read more about Earn to Give <a href="https://en.wikipedia.org/wiki/Earning_to_give">here</a> and <a href="https://80000hours.org/articles/earning-to-give/">here</a> .
 
-So far I have a registry of my direct donations to the Against Malaria Foundation here: https://www.AgainstMalaria.com/EffectiveAltruismTrader
+So far I have a registry of my direct donations to the Against Malaria Foundation <a href="https://www.AgainstMalaria.com/EffectiveAltruismTrader">here</a>.
 
 <b>Why have you chosen AMF as your main cause?</b>
 
-The Against Malaria Foundation (AMF) is one of GiveWell´s top-rated charities and I believe that it offers donors an outstanding opportunity to accomplish good with my donations.
+The Against Malaria Foundation (AMF) is one of <a href="https://www.givewell.org/">GiveWell´s top-rated charities</a> and I believe that it offers donors an outstanding opportunity to accomplish good with my donations.
 
