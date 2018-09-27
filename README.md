@@ -13,21 +13,21 @@ Effective altruism is about answering one simple question: how can we use our re
 
 Rather than just doing what feels right, EA uses evidence and careful analysis to find the very best causes to work on.
 
-What are the Effective Altruism Funds?
+<b>What are the Effective Altruism Funds?</b>
 
 The Effective Altruism Funds have been designed  to help individuals give in a way that is both effective and convenient. It's kind of like a mutual fund, but for maximizing the effectiveness of your donations, rather than your investment returns.
 
-How can I collaborate to the project?
+<b>How can I collaborate to the project?</b>
 
 You can directly donate a part of your trading profits to the Effective Altruism Fund of your preference or you can support the project by simply adding to your tweets the hashtag #EATraders. By doing so, we will be able to retweet the charts so everyone can benefit from your expertise.
 
-Who is behind this project?
+<b>Who is behind this project?
 
-I´m a 42 years old effective altruist and a trader that has chosen the option Earn to Give as a life choice. You can read more about Earn to Give here https://en.wikipedia.org/wiki/Earning_to_give and here https://80000hours.org/articles/earning-to-give/.
+I´m a 42 years old effective altruist and a trader that has chosen the option Earn to Give as a life choice. You can read more about Earn to Give <a href="https://en.wikipedia.org/wiki/Earning_to_give">here</a> and <a href="https://80000hours.org/articles/earning-to-give/">here</a> .
 
 So far I have a registry of my direct donations to the Against Malaria Foundation here: https://www.AgainstMalaria.com/EffectiveAltruismTrader
 
-Why have you chosen AMF as your main cause?
+<b>Why have you chosen AMF as your main cause?</b>
 
 The Against Malaria Foundation (AMF) is one of GiveWell´s top-rated charities and I believe that it offers donors an outstanding opportunity to accomplish good with my donations.
 
