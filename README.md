@@ -29,5 +29,5 @@ If you want to learn more, there´s a registry of my personal donations to the <
 
 <b>Why have you chosen AMF as your main cause?</b>
 
-The Against Malaria Foundation (AMF) is one of <b><a href="https://www.givewell.org/">GiveWell´s top-rated charities</a><b> and I believe that it offers donors an outstanding opportunity to accomplish good with my donations.
+The Against Malaria Foundation (AMF) is one of <b><a href="https://www.givewell.org/">GiveWell´s top-rated charities</a></b> and I believe that it offers donors an outstanding opportunity to accomplish good with my donations.
 
