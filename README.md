@@ -21,11 +21,11 @@ The Effective Altruism Funds have been designed  to help individuals give in a w
 
 You can directly donate a part of your trading profits to the Effective Altruism Fund of your preference or you can support the project by simply adding to your tweets the hashtag #EATraders. By doing so, we will be able to retweet the charts so everyone can benefit from your expertise.
 
-<b>Who is behind this project?
+<b>Who is behind this project?</b>
 
-I´m a 42 years old effective altruist and a trader that has chosen the option <b>Earn to Give</b> as a life choice. You can read more about Earn to Give <a href="https://en.wikipedia.org/wiki/Earning_to_give">here</a> and <a href="https://80000hours.org/articles/earning-to-give/">here</a> .
+I´m a 42 years old effective altruist and a trader that has chosen the option <b>Earn to Give</b> as a life choice. You can read more about Earn to Give <a href="https://en.wikipedia.org/wiki/Earning_to_give">here</a> and <a href="https://80000hours.org/articles/earning-to-give/">here</a>.
 
-So far I have a registry of my direct donations to the Against Malaria Foundation <a href="https://www.AgainstMalaria.com/EffectiveAltruismTrader">here</a>.
+If you want to learn more, there´s a registry of my personal donations to the Against Malaria Foundation <a href="https://www.AgainstMalaria.com/EffectiveAltruismTrader">here</a>.
 
 <b>Why have you chosen AMF as your main cause?</b>
 
