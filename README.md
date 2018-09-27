@@ -1,21 +1,27 @@
 #Traders for Effective Altruism
 
-If you are here chances are that you love trading as much as we do. 
+If you are reading this chances are that you love trading as much as we do. 
 
 We have created this project with two main goals:
 
-1. To
-2. To promote EA Funds and other EA organizations so people can donate to their 
+1. To build a community of traders interested in altruism. 
+2. To raise awareness about the Effective Altruism movement, the EA Funds and other EA organizations.
 
-
-
-
-
-
+What is Effective altruism?
 
 Effective altruism is about answering one simple question: how can we use our resources to help others the most?
 
-Rather than just doing what feels right, we use evidence and careful analysis to find the very best causes to work on.
+Rather than just doing what feels right, EA uses evidence and careful analysis to find the very best causes to work on.
 
-But it's no use answering the question unless you act on it. Effective altruism is about following through. It's about being generous with your time and your money to do the most good you can.
+What are the Effective Altruism Funds?
+
+The Effective Altruism Funds have been designed  to help individuals give in a way that is both effective and convenient. It's kind of like a mutual fund, but for maximizing the effectiveness of your donations, rather than your investment returns.
+
+How can I collaborate to the project?
+
+You can donate to the Effective Altruism Fund of your preference or by simply posting your charts on twitter using the hashtag #EATraders. 
+
+Who is behind this project?
+
+I´m a 42 years old effective altruist and a trader that has chosen the option Earn to Give as a life choice. You can read more about Earn to Give here https://en.wikipedia.org/wiki/Earning_to_give and here https://80000hours.org/articles/earning-to-give/.
 
