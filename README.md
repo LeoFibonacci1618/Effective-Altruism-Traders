@@ -15,11 +15,11 @@ Rather than just doing what feels right, EA uses evidence and careful analysis t
 
 <b>What are the Effective Altruism Funds?</b>
 
-The Effective Altruism Funds have been designed  to help individuals give in a way that is both effective and convenient. It's kind of like a mutual fund, but for maximizing the effectiveness of your donations, rather than your investment returns.
+The <a href="https://app.effectivealtruism.org/funds">Effective Altruism Funds</a> have been designed  to help individuals give in a way that is both effective and convenient. It's kind of like a mutual fund, but for maximizing the effectiveness of your donations, rather than your investment returns.
 
 <b>How can I collaborate to the project?</b>
 
-You can directly donate a part of your trading profits to the Effective Altruism Fund of your preference or you can support the project by simply adding to your tweets the hashtag #EATraders. By doing so, we will be able to retweet the charts so everyone can benefit from your expertise.
+You can directly donate a part of your trading profits to the <a href="https://app.effectivealtruism.org/funds/global-development">Effective Altruism Fund</a> of your preference or you can support the project by simply adding to your tweets the hashtag #EATraders. By doing so, we will be able to retweet the charts so everyone can benefit from your expertise.
 
 <b>Who is behind this project?</b>
 
