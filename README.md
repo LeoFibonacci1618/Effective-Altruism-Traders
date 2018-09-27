@@ -2,7 +2,7 @@ If you are reading this chances are that you love trading as much as we do.
 
 We have created this project with two main goals:
 
-1. To build a community of traders which also happen to be interested in altruism. 
+1. To build a <a href="https://twitter.com/eatraders">community of traders</a> which also happen to be interested in altruism. 
 2. To raise awareness about the Effective Altruism movement, the EA Funds and other EA organizations.
 
 <b>What is Effective Altruism?</b>  
