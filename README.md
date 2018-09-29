@@ -36,3 +36,7 @@ The Against Malaria Foundation (AMF) is one of <a href="https://www.givewell.org
 <b>Where can I find you?</b>
 
 You can find us on twitter <a href="https://twitter.com/eatraders">@EATraders</a>.
+
+<b>Where can I learn to trade?</b>
+
+If you´d like to learn a reliable strategy to trade Stocks, FX, Futures or Crypto markets, I highly recommend the <a href="http://22s.com/023174/knm5">trading group</a> Nic runs on Facebook. The strategy she uses works on any trending market and its simplicity and reliability has completely change the view I previously had about TA. <a href="http://22s.com/023174/knm5">Subscribe here</a> and I´ll donate any profit I make through the referral link.
