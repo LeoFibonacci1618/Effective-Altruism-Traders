@@ -7,6 +7,14 @@ I have created this project with two main goals:
 
 It is a personal project only for educational purposes and not financial advice. 
 
+How to collaborate:   
+
+1. Donate part of your trading profits to the Effective Altruism Funds 
+2. Add to your tweets the hashtag #EATraders
+3. Find Peer-to-Peer funding opportunities at our <a href="https://www.facebook.com/groups/eatraders">Facebook group</a>.
+
+Want to learn how to trade? 👉 <a href="http://22s.com/023174/knm5">Check Nic´s group</a>
+
 <b>What is Effective Altruism?</b>  
 
 <a href="https://www.effectivealtruism.org/">Effective altruism</a> is about answering one simple question: how can we use our resources to help others the most?
