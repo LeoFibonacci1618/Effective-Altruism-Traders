@@ -9,7 +9,7 @@ It is a personal project only for educational purposes and not financial advice.
 
 How to collaborate:   
 
-1. Donate part of your trading profits to the Effective Altruism Funds 
+1. Donate part of your trading profits to the <a href="https://app.effectivealtruism.org/funds">Effective Altruism Funds</a> 
 2. Add to your tweets the hashtag #EATraders
 3. Find Peer-to-Peer funding opportunities at our <a href="https://www.facebook.com/groups/eatraders">Facebook group</a>.
 
