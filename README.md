@@ -11,7 +11,7 @@ How to collaborate:
 
 1. Donate part of your trading profits to the <a href="https://app.effectivealtruism.org/funds">Effective Altruism Funds</a> 
 2. Add to your tweets the hashtag #EATraders
-3. Find Peer-to-Peer funding opportunities at our <a href="https://www.facebook.com/groups/eatraders">Facebook group</a>.
+3. Find Peer-to-Peer funding opportunities at our <a href="https://www.facebook.com/groups/EffectiveAltruismTraders">Facebook group</a>.
 
 Want to learn how to trade? 👉 <a href="http://22s.com/023174/knm5">Check Nic´s group</a>
 
