@@ -27,7 +27,7 @@ The <a href="https://app.effectivealtruism.org/funds">Effective Altruism Funds</
 
 <b>How can I collaborate?</b>
 
-You can directly donate part of your trading profits to the <a href="https://app.effectivealtruism.org/funds/global-development">Effective Altruism Fund</a> of your preference or you can support the project by simply adding to your tweets the hashtag <b>#EATraders</b>. 
+You can directly donate part of your trading profits to the <a href="https://app.effectivealtruism.org/funds/global-development">Effective Altruism Fund</a> of your preference or you can support the project by simply adding to your tweets the hashtag [<b>#EATraders</b>](https://twitter.com/eatraders). 
 
 By doing so, we will be able to retweet your charts so everyone in the community can benefit from your expertise.
 
