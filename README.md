@@ -13,7 +13,7 @@ How to collaborate:
 2. Add to your tweets the hashtag #EATraders
 3. Find Peer-to-Peer funding opportunities at our <a href="https://www.facebook.com/groups/EffectiveAltruismTraders">Facebook group</a>.
 
-Want to learn how to trade? 👉 <a href="http://22s.com/023174/knm5">Check Nic´s group</a>
+Want to learn how to trade? 👉 <a href="http://22s.com/023174/knm5">Check out Nic´s group</a>
 
 <b>What is Effective Altruism?</b>  
 
